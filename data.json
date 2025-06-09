@@ -1,5 +1,18 @@
+[
 {
   "name": "John Doe",
-  "age": 30,
-  "city": "New York"
+  "title": "doctor",
+  "city": "New York",
+  "speciality":"Surgeon",
+  "service":"Surgery",
+  "price":200
+},
+{
+  "name": "John Doe",
+  "title": "doctor",
+  "city": "New York",
+  "speciality":"Surgeon",
+  "service":"Surgery",
+  "price":200
 }
+]
