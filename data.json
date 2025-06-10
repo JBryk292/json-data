@@ -1,18 +1,50 @@
 [
-{
-  "name": "John Doe",
-  "title": "doctor",
-  "city": "New York",
-  "speciality":"Surgeon",
-  "service":"Surgery",
-  "price":200
-},
-{
-  "name": "John Doe",
-  "title": "doctor",
-  "city": "New York",
-  "speciality":"Surgeon",
-  "service":"Surgery",
-  "price":200
-}
+  {
+    "name": "Anna Kowalska",
+    "title": "dr",
+    "city": "Warszawa",
+    "speciality": "Kardiolog",
+    "service": "Badanie serca",
+    "price": 250
+  },
+  {
+    "name": "Piotr Nowak",
+    "title": "lek.",
+    "city": "Kraków",
+    "speciality": "Ortopeda",
+    "service": "Konsultacja ortopedyczna",
+    "price": 350
+  },
+  {
+    "name": "Maria Wiśniewska",
+    "title": "dr",
+    "city": "Gdańsk",
+    "speciality": "Dermatolog",
+    "service": "Badanie skóry",
+    "price": 180
+  },
+  {
+    "name": "Tomasz Zieliński",
+    "title": "lek.",
+    "city": "Wrocław",
+    "speciality": "Chirurg",
+    "service": "Zabieg chirurgiczny",
+    "price": 600
+  },
+  {
+    "name": "Michał Lewandowski",
+    "title": "dr",
+    "city": "Poznań",
+    "speciality": "Laryngolog",
+    "service": "Badanie laryngologiczne",
+    "price": 220
+  },
+  {
+    "name": "Karolina Kaczmarek",
+    "title": "lek.",
+    "city": "Łódź",
+    "speciality": "Okulista",
+    "service": "Badanie wzroku",
+    "price": 150
+  }
 ]
